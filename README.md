@@ -1,8 +1,6 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="500"/> 
-</div>
+![image](https://github.com/RodrigoSturm14/RodrigoSturm14/assets/105557226/66cf5274-5fd3-42a8-8db7-0b54d7a3fb30)
 
-***
+I am a (future) Electronic Technician with deep knowledge in different activities, such as programming, 3D modeling and PCB designing/assembling.
 
 <div align="center"> 
   <h1> I'm Rodrigo Sturm 👋</h1>
@@ -10,7 +8,7 @@
 
 <div align="center"> 
   <h4>
-    I am a (future) Electronic Technician with deep knowledge in different activities, such as programming, 3D modeling and PCB designing/assembling.
+    
   </h4>
 </div>
 
