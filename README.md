@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/RodrigoSturm14/RodrigoSturm14/assets/105557226/7179caaf-a2b4-4544-b01d-87013a7397f5" width="850"/> 
+  <img src="https://github.com/RodrigoSturm14/RodrigoSturm14/assets/105557226/7179caaf-a2b4-4544-b01d-87013a7397f5" width="800"/> 
   <br>
   <br>
   
@@ -22,10 +22,9 @@
   </p>
 </div>
 
-***
-
-## About me
-* ### Programming Skills
+<h1 aling="center">About me</h1>
+  
+### Programming Skills
   <div id="badges">
     <img alt="Static Badge" src="https://img.shields.io/badge/C%20-blue">
     <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-red">
