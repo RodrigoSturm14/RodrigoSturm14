@@ -1,19 +1,25 @@
 <div id="header" align="center">
   <img src="https://github.com/RodrigoSturm14/RodrigoSturm14/assets/105557226/7179caaf-a2b4-4544-b01d-87013a7397f5" width="850"/> 
+  <br>
+  <br>
+  
 </div>
 
 <div id="social-contacts" align="center">
-
+  
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-sturm/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
-  
   
 </div>
 
 <div align="center"> 
-  <h4>
-    I am a (future) Electronic Technician with deep knowledge in different activities, such as programming, 3D modeling and PCB designing/assembling.
-  </h4>
+  <h3>
+    (Future) Electronic Technician 
+  </h3>
+
+  <p>
+    Programming | 3D modeling | PCB designing/assembling
+  </p>
 </div>
 
 ***
