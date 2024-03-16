@@ -28,12 +28,19 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Socketio](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
+![Static Badge](https://img.shields.io/badge/WebSocket-black?style=for-the-badge&logo=socket.io&logoColor=white)
 
 ![C](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-## Electronic - robotic skills
+## Electronics skills
 
+![Static Badge](https://img.shields.io/badge/Arduino-%2334bee0?style=for-the-badge&logo=arduino&logoColor=black)
+![Static Badge](https://img.shields.io/badge/MQTT-%23a100ff?style=for-the-badge&logo=mqtt&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Iot-blue?style=for-the-badge&logo=bluetooth&logoColor=black)
+
+![Static Badge](https://img.shields.io/badge/KiCad-%232129ff?style=for-the-badge&logo=kicad&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Proteus-%233da5ff?style=for-the-badge&logo=proteus&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SketchUp-%23ff2414?style=for-the-badge&logo=sketchup&logoColor=white)
 
 ## About me
 
