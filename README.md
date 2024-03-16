@@ -5,14 +5,11 @@
   
 </div>
 
-<div id="social-contacts" align="center">
+<div id="social" align="center">
   
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-sturm/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
-  
-</div>
 
-<div align="center"> 
   <h3>
     (Future) Electronic Technician 
   </h3>
@@ -20,10 +17,37 @@
   <p>
     Programming | 3D modeling | PCB designing/assembling
   </p>
+  
 </div>
 
-<h1 aling="center">About me</h1>
-  
+## Programming skills
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Socketio](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
+
+![C](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+## Electronic - robotic skills
+
+
+## About me
+
+* Electronic technician student.
+* Currently learning Python.
+
+<div id="bio" align="center"> 
+  <strong>
+    - From Argentina, Buenos Aires.
+  </strong>
+</div>
+
+<!--
+
 ### Programming Skills
   <div id="badges">
     <img alt="Static Badge" src="https://img.shields.io/badge/C%20-blue">
@@ -37,9 +61,6 @@
 ## 
 ### Languages
 
-
-
-<!--
 * ### Future Electronic Technician ⚡
 * ### Programmer 💻
 * ### Hardware Developer 🤖
