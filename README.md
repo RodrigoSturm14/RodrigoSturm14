@@ -42,16 +42,16 @@
 ![Static Badge](https://img.shields.io/badge/Proteus-%233da5ff?style=for-the-badge&logo=proteus&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/SketchUp-%23ff2414?style=for-the-badge&logo=sketchup&logoColor=white)
 
-## About me
+# About me
 
-* Electronic technician student.
-* Currently learning Python.
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSturm14&theme=github_dark_dimmed&layout=compact&langs_count=8&card_width=320" />
+</a>
 
-<div id="bio" align="center"> 
-  <strong>
-    - From Argentina, Buenos Aires.
-  </strong>
-</div>
+* I am an electronic technician student.
+* Currently I am learning Python and computer vision.
+* Looking forward to develop automated electronic systems.
+* I am from Argentina, Buenos Aires <img src="https://github.com/RodrigoSturm14/RodrigoSturm14/assets/105557226/8a4f2830-37bf-49e5-a4c7-33585e972455" width="30"/> .
 
 <!--
 
